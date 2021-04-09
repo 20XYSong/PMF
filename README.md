@@ -1,5 +1,5 @@
 # PMF
-File 'PMF_XY' is my code to realize the PMF algorithm on the movielens data ( mk-100k ), using RMSE as an evaluation indicator.
+File 'PMF_XY.py' is my code to realize the PMF algorithm on the movielens data ( mk-100k ), using RMSE as an evaluation indicator.
 
 There are two updating methods in my PMF class: full batch GD and SGD; 
 
