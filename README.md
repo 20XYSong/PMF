@@ -12,3 +12,6 @@
 6.Applying adaptive stepsize to gain more reduce in RMSE, however, increases the number of iteration.
 
 7.Follwing are my RMSE curve and relevant results:
+![image](https://github.com/20XYSong/PMF/blob/main/Image/PMF_RMSE.jpeg)
+![image](https://github.com/20XYSong/PMF/blob/main/Image/PMF_results1.jpeg)
+![image](https://github.com/20XYSong/PMF/blob/main/Image/PMF_results2.jpeg)
