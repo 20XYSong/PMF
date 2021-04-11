@@ -1,4 +1,6 @@
 # PMF
+# Name:Xueyi Song; Stu_Number:2020222010021
+
 1.File 'PMF_XY.py' is my code to realize the PMF algorithm on the movielens data ( mk-100k ), using RMSE as an evaluation indicator.
 
 2.There are two updating methods in my PMF class: full batch GD and SGD; 
