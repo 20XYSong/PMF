@@ -5,5 +5,5 @@ This code is to realize Lara( using GAN to generate fake users, in order to over
 
 ![image](https://github.com/20XYSong/PMF/blob/main/LARA_by_SXY/IMAGES/GAN_V2_S.jpg)
 ![image](https://github.com/20XYSong/PMF/blob/main/LARA_by_SXY/IMAGES/GAN_V2_END.jpg)
-![image](https://github.com/20XYSong/PMF/blob/main/LARA_by_SXY/IMAGES/dis64_loss.jpg)
-![image](https://github.com/20XYSong/PMF/blob/main/LARA_by_SXY/IMAGES/gen64_loss.jpg)
+![image](https://github.com/20XYSong/PMF/blob/main/LARA_by_SXY/IMAGES/dis64_loss.jepg)
+![image](https://github.com/20XYSong/PMF/blob/main/LARA_by_SXY/IMAGES/gen64_loss.jepg)
